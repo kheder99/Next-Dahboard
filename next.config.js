@@ -2,3 +2,10 @@
 const nextConfig = {};
 
 module.exports = nextConfig;
+// module.exports = {
+//   resolve: {
+//     fallback: {
+//       fs: false,
+//     },
+//   },
+// };
